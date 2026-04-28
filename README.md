@@ -9,6 +9,7 @@ This repository contains networking tools written in modern C++ as part of my pa
 - Raw ICMP Ping
 
 ## Malware
+- Credentials Stealer (Windows)
 - Keylogger (Windows)
 
 ## Scanners
