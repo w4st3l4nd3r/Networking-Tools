@@ -11,6 +11,7 @@ This repository contains networking tools written in modern C++ as part of my pa
 ## Malware
 - Credentials Stealer (Windows)
 - Keylogger (Windows)
+- Reverse Shell (Windows)
 
 ## Scanners
 - ARP-based Network Scanner
