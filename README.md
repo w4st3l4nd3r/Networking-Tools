@@ -7,6 +7,7 @@ This repository contains networking tools written in modern C++ as part of my pa
 - TCP Multi-client Chatroom
 - TCP File Transfer
 - Raw ICMP Ping
+- Log Cleaner
 
 ## Malware
 - Credentials Stealer (Windows)
